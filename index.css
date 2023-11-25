@@ -9,6 +9,10 @@ h1 {
     color: black;
 }
 
+.red {
+    color: red;
+}
+
 h2 {
     font-size: 25px;
     color: rgb(226, 205, 43);
